@@ -1,6 +1,6 @@
 """
 @author: Mohsen
-Ensemble CNN-DNN for Corn Yield Prediction
+ML+APSIM for Corn Yield Prediction
 """
 
 import numpy as np
