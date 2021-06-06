@@ -1,3 +1,8 @@
+"""
+@author: Mohsen
+Ensemble CNN-DNN for Corn Yield Prediction
+"""
+
 import numpy as np
 import pandas as pd
 import random
